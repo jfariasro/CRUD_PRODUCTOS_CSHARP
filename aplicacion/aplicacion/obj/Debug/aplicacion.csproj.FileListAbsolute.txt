@@ -1,0 +1,20 @@
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.csprojAssemblyReference.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.frmConsulta.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.frmDato.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS TOMALA\EXAMEN\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.csprojAssemblyReference.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.frmConsulta.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.frmDato.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\José Andrés\Documents\TRABAJOS - PROGRAMAS - PROYECTO\TRABAJOS DE STEVEN ALLAUCA\EXAMEN POO 2DO PARCIAL\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
